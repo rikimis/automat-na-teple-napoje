@@ -1,4 +1,4 @@
-***Automat na teplé nápoje v C++***
+# Automat na teplé nápoje v C++
 
 Mojim cieľom v tomto projekte bolo vytvoriť model automatu na teplé
 nápoje, ktorý by jeho prevádzkovateľovi umožňoval rozmanitejšie voľby
