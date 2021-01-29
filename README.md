@@ -1,0 +1,1 @@
+# automat-na-teple-napoje
