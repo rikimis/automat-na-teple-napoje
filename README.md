@@ -1,5 +1,7 @@
 # Automat na teplé nápoje v C++
 
+![title](https://www.mistik.space/images/portfolio/5.jpg)
+
 Mojim cieľom v tomto projekte bolo vytvoriť model automatu na teplé
 nápoje, ktorý by jeho prevádzkovateľovi umožňoval rozmanitejšie voľby
 kombinácií surovín pre vytvorenie nápojov. Pre tento cieľ som sa
