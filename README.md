@@ -8,23 +8,14 @@ Nápoje vo svojej podstate môžu mať rôzne názvy či ceny. V tomto prípade 
 
 Bežný automat štandardne vydáva týchto 10 druhov nápojov:
 •	Káva
-
 •	Veľká káva
-
 •	Kapučíno
-
 •	Kapučíno s čokoládou
-
 •	Mliečna káva
-
 •	Káva s čokoládou
-
 •	Citrónový čaj
-
 •	Čokoláda
-
 •	Irish cream
-
 •	Polievka
 
 Pre konkrétne typy nápojov je možné vybrať si aj predvoľbu, a teda nastaviť možnosť pridania cukru alebo zvoliť nápoj bez cukru. Prípadne je možné zvoliť aj možnosť bez predvoľby, a teda v tomto prípade bude množstvo cukru nastavené na optimálnu hodnotu pre každý z konkrétnych typov nápojov.
